@@ -1,0 +1,5 @@
+prebuilt_etc {
+    name: "otg.rc",
+    src: "otg.rc",
+    sub_dir: "init",
+}
