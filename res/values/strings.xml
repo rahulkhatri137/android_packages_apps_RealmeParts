@@ -16,6 +16,9 @@
     <string name="display_title">Display</string>
     <string name="misc_title">Misc settings</string>
 
+    <!-- Ambient settings -->
+    <string name="ambient_enable">Use ambient display</string>
+
     <!-- CABC -->
     <string name="cabc_title">CABC Mode</string>
     <string name="cabc_dialogTitle">CABC Profiles</string>
@@ -35,9 +38,24 @@
     <string name="dc_mode_summary">Reduces screen flicker while brightness is low</string>
     <string name="dc_mode_title">DC-Dimming</string>
     <string name="tile_dc_mode">DC-Dimming</string>
-   <!-- DT2W -->
+    <!-- DT2W -->
     <string name="dt2w_title">Double-Tap to wake</string>
     <string name="dt2w_summary">When Double-tap to wake is enabled, you can touch the screen twice to turn it on</string>
+    <!-- Doze -->
+    <string name="ambient_display_always_on_title">Always on</string>
+    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
+    <string name="ambient_display_gestures_title">Ambient Display Gestures</string>
+    <string name="ambient_display_gestures_summary">Additional Gestures to Wake the Screen</string>
+    <string name="wake_on_gesture_title">Wake up</string>
+    <string name="wake_on_gesture_summary">Wake up the device instead of pulsing notifications</string>
+    <string name="pick_up_gesture_title">Pick-up</string>
+    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
+    <string name="pocket_gesture_title">Pocket Gesture</string>
+    <string name="pocket_gesture_summary">Pocket Gestures</string>
+    <string name="hand_wave_gesture_title">Hand Gesture</string>
+    <string name="hand_wave_gesture_summary">Hand wave Gesture</string>
+    <string name="tilt_sensor_title">Tilt sensor</string>
+    <string name="proximity_sensor_title">Proximity Sensor</string>
     <!-- HBM mode -->
     <string name="hbm_mode_summary">Peak brightness for better visibility in outdoors</string>
     <string name="hbm_mode_title">High brightness mode</string>
