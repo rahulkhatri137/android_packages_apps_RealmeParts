@@ -151,5 +151,17 @@
             android:title="@string/fps_info_title"
             android:summary="@string/fps_info_summary"
             android:persistent="true" />
+
+        <Preference
+            android:icon="@drawable/ic_engmode"
+            android:title="@string/engmode_title"
+            android:summary="@string/engmode_summary">
+
+            <intent
+                android:targetPackage="com.oppo.engineermode"
+                android:action="android.intent.action.MAIN"
+                android:targetClass="com.oppo.engineermode.EngineeringMode" />
+        </Preference>
+
     </PreferenceCategory>
 </PreferenceScreen>

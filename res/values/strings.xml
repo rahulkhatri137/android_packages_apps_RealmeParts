@@ -69,6 +69,10 @@
     <!-- fps info -->
     <string name="fps_info_title">FPS overlay</string>
     <string name="fps_info_summary">Show overlay with current frames per second</string>
+    <!-- MTK Engineering Mode -->
+    <string name="engmode">Engineering mode</string>
+    <string name="engmode_title">MTK Engineering Mode</string>
+    <string name="engmode_summary">Engineering Mode for mediatek SOCs. Network, debug and testing utils.</string>
 
     <!-- Unsupported -->
     <string name="unsupported">Unsupported</string>
